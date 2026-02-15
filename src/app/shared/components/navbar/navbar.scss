@@ -1,0 +1,21 @@
+.container {
+  width: 100%;
+  padding: 10px;
+}
+
+.main {
+  width: 97%;
+  height: 60px;
+  padding: 5px;
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  border: 2px solid rgba($color: black, $alpha: 0.5);
+  border-radius: 20px;
+}
+
+.logo {
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
